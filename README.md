@@ -1,2 +1,2 @@
 # NGINX-HA-LAB
-NGINX HA lab documentation
+NGINX HA lab documentation 2
